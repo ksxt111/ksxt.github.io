@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="./css/index.css">
+</head>
+<body>
+	<div class = "body">
+	<div class="gn_1">
+		<div></div>
+		<div>功能选择</div>
+		<div></div>
+	</div>
+	<div class="button">
+		<a href="https://jq.qq.com/?_wv=1027&k=zOJprSj3" class="QQ">加入Q群</a>
+		<a href="http://cx.sceea.cn/html/GKCJ.htm" class="QQ">成绩查询</a>
+	</div>
+	<div class="gn">
+		<div>系统准备中......</div>
+		<div>当前志愿填报未开始,请在高考成绩通知12小时后再访问</div>
+                <div>哔哩哔哩限时直播志愿政策讲解，加群了解</div>
+		<div>如有疑问、招生计划,可以qq群交流</div>
+	</div>
+	<div class="bottom_2"><b>-QQ 群：1067075641©版权所有-</b></div>
+	</div>
+</body>
+<script type="text/javascript" src="./js/index.js"></script>
+</html>
